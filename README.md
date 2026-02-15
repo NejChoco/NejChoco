@@ -2,7 +2,9 @@
 <h3 align="center">An aspiring and curious Computer Science student from STI College Caloocan. Currently exploring web development, data science, and machine learning. My curiosity allows me to explore and learn how things work that allows me to build projects to hone my skills.</h3>
 
 - 🔭 I’m currently working on **Heart Check PHC a thesis project in collaboration with the Philippine Heart Center**
-
+- 🚧 Future projects
+**Personal Portfolio**
+**Game made in Unity (concept-TBA)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/haoran.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haoran.08" height="30" width="40" /></a>
