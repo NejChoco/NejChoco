@@ -6,7 +6,7 @@ An aspiring and curious Computer Science student from STI College Caloocan. Curr
 <br>🔭 I’m currently working on Heart Check PHC a thesis project in collaboration with the Philippine Heart Center<br>
 <br>🚧 Future projects<br>
 - Personal portfolio
-- Unity made game (concept to be announce)
+- exit 8 inspired game made by unity
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haoran_.08) 
